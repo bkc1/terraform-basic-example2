@@ -1,0 +1,10 @@
+.idea/*
+.idea
+.terraform
+*tfstate*
+.DS_Store
+/.DS_Store
+/*tfstate*
+/.terraform
+/example2b/keys/mykey*
+
